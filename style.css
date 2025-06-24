@@ -4,7 +4,7 @@ color:white;
 }
 img{
 height:auto;
-width:50%;
+max-width:30%;
 }
 h2{
 color:rgba(255,255,255,0.5);
@@ -49,4 +49,3 @@ color:rgba(255,255,255,0.5);
   transform: scale(1.05);
   box-shadow: 0 0 10px rgba(255,255,255,0.9);
 }
-
